@@ -26,7 +26,6 @@ text-transform: uppercase;
   font-style: normal;
 /*  line-height: 3.25;*/
   letter-spacing: 0.24px;
-  text-align: left;
   color: #333333;
 	text-align: center;
 }
@@ -49,6 +48,7 @@ height: 1078px;
 /*padding: 115.5px 613px 386px 614px;*/
 background-color: rgba(34, 34, 34, 0.73);
 box-sizing: border-box;
+	background-image: url(img/banner.png)
 }
 .invisible{
 	width: 1920px; height: 115px;

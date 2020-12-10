@@ -1,0 +1,92 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 1920px;
+  height: 6420px;
+  background-color: wheat;
+margin: 0 auto;
+}
+.bg{
+  width: 1920px;
+  height: 127px;
+/*  margin: 0 1px 0 5px;*/
+/*  padding: 57px 378px 58px;*/
+  box-shadow: -0.7px 5px 32px 0 rgba(0, 0, 0, 0.03);
+  background-color: #fafafa;
+}
+nav{
+font-family: Montserrat;
+  font-size: 16px;
+text-transform: uppercase;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+/*  line-height: 3.25;*/
+  letter-spacing: 0.24px;
+  text-align: left;
+  color: #333333;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+/*	margin-top: 57px;*/
+	padding: 54px 20px;
+}
+li:hover{
+  font-weight: bolder;
+  color: #ff9934;
+	border-bottom: medium solid #ff9934;
+}
+.banner{
+width: 1920px;
+height: 1078px;
+/*padding: 115.5px 613px 386px 614px;*/
+background-color: rgba(34, 34, 34, 0.73);
+box-sizing: border-box;
+}
+.invisible{
+	width: 1920px; height: 115px;
+}
+hr{
+width: 27px;
+height: 3px;
+margin: 0 auto 6px auto;
+background-color: #ffffff;
+}
+h1{
+font-family: lato;
+text-transform: uppercase;
+font-size: 28px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.86;
+letter-spacing: 0.42px;
+text-align: center;
+color: #ffffff;
+}
+.social{
+ margin: 39px auto 207px auto;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.85;
+  letter-spacing: 0.3px;
+  text-align: left;
+  color: #ffffff;
+	 width: 150px;
+  height: 18px;
+}
+.social i{
+	padding: 0 5%;
+}
+.social i:hover{
+	 color: #ff9934;
+}
